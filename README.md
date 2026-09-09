@@ -12,6 +12,7 @@ Jeu de tower defense en Java (plateau en grille, tours avec cadence de tir, ball
 - `paths/` — chemins parcourus par les ballons
 - `listchooser/` — menus d'interaction (achat/vente de tours, évolutions)
 - fichiers `Livrable*Main.java` — versions successives rendues au fil du projet (livrables intermédiaires jusqu'au livrable final)
+- `test/` — tests unitaires JUnit5 (Joueur, Tour, TowerDefence, inputtest)
 
 ## Environnement technique
 
